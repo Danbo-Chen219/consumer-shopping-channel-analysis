@@ -24,6 +24,8 @@ A data science project exploring consumer shopping trends in 2026, covering purc
 | §13 | Key Insights |
 | §14 | Conclusions & Recommendations |
 
+> Rendered HTML export: [consumer.html](https://danbo-chen219.github.io/consumer-shopping-channel-analysis/consumer.html)
+
 ## Data
 
 - `Consumer_Shopping_Trends_2026.csv` — Primary dataset
