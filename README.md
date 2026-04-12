@@ -24,8 +24,6 @@ A data science project exploring consumer shopping trends in 2026, covering purc
 | §13 | Key Insights |
 | §14 | Conclusions & Recommendations |
 
-> A rendered HTML export is also available as [`consumer.html`](consumer.html).
-
 ## Data
 
 - `Consumer_Shopping_Trends_2026.csv` — Primary dataset
